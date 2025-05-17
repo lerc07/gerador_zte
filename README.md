@@ -14,4 +14,4 @@ Resultado do Formulário
 ![image](https://github.com/user-attachments/assets/9ee9eb06-bd2d-4e95-be8a-b7a2513606f3)
 
 Para Acessar:
-[http://](https://gerador.lerc.eti.br/scripts/olt/zte/)
+[https://https://gerador.lerc.eti.br/scripts/olt/zte/](https://gerador.lerc.eti.br/scripts/olt/zte/)
